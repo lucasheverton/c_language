@@ -1,0 +1,23 @@
+\n\n\n\n\n - Pula linha 
+no float - casas decimais depois do .
+// comentário na linha
+______________________________________________________________________
+
+0 falso
+1 -verdadeiro
+int - inteiro
+float - real
+char - caractere
+
+# define - declarar 
+
+__________________________________________________________
+
+scanf - entrada de dados 
+
+%d - leitura valor inteiro
+%f - leitura de valor real
+%c - leitura de um simbolo caractere
+%s - leitura de uma cadeira de caracteres 
+
+_________________________________________________________________________ 
