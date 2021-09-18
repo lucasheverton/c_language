@@ -1,2 +1,2 @@
-# test_language_c
-main tests using C language .
+# C
+main tests using C language in **college*.
